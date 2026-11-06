@@ -1,0 +1,13 @@
+# Whitelist: only the analysis notebook and the pipeline scripts are versioned.
+# Raw/derived data (scraped JSON, CSVs), the report, figures and environments are excluded.
+*
+!.gitignore
+!.python-version
+!Untitled.ipynb
+!scraper.py
+!filter.py
+!anal.py
+!converter.py
+!packageretriever.py
+!takerepos.py
+!revert_search.py
