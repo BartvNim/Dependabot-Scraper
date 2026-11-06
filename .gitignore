@@ -3,10 +3,11 @@
 *
 !.gitignore
 !.python-version
-!Untitled.ipynb
+!notebook.ipynb
+!README.md
 !scraper.py
 !filter.py
-!anal.py
+!analysis.py
 !converter.py
 !packageretriever.py
 !takerepos.py
